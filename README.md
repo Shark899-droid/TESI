@@ -1,3 +1,3 @@
 # TESI
 
-Tesi di laurea informatica per le aziende digitali
+Tesi di laurea informatica per le aziende digitali React + Vite
